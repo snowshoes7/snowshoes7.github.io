@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "new site"
+date:   2025-04-10 19:06:32 -0700
+---
+{% highlight c %}
+int main() {
+  printf("new site!");
+}
+{% endhighlight %}
